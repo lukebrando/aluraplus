@@ -9,5 +9,5 @@ body {background-color:var(--cor-de-fundo);
 color: var(--branco-principal);
 }
 .pricipal {
-    background-image:url(l.png);
+    background-image:url("l.png");
 }
